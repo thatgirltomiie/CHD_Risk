@@ -5,8 +5,4 @@ seaborn==0.11.2
 scikit-learn==1.2.2
 shap==0.41.0
 ydata-profiling==4.0.0
-<<<<<<< HEAD
 jupyterlab==3.6.3
-=======
-jupyterlab==3.6.3
->>>>>>> 40127a0d3dcbfac0fd66398f01e81d109b9331c1

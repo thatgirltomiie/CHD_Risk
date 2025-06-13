@@ -92,3 +92,13 @@ Key Python libraries used:
 ## 📝 License
 
 This project is open for academic, research and portfolio use. Attribution is appreciated.
+
+📬 Contact If you have any questions or suggestions, feel free to reach out:
+
+Name: Ibukunoluwa Johnson
+
+Email: ibukunjohnson02@gmail.com
+
+LinkedIn: www.linkedin.com/in/ibukunoluwa-johnson-09a340353
+
+GitHub: https://github.com/thatgirltomiie

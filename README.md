@@ -16,9 +16,9 @@ your-project/
 │   ├── analysis.ipynb                  # Full analysis: EDA, modeling, SHAP
 │   └── report.ipynb                    # Summary report of problem & findings
 ├── slides/
-│   └── CHD_Risk_Prediction_Summary.pptx  # Presentation deck
-├── requirements.txt				   # Needed tools
-├── README.md                           # Project overview and instructions
+│   └── CHD_Risk_Prediction_Summary.pptx  # Presentation
+├── requirements.txt				               
+├── README.md                           
 ```
 
 ---

@@ -23,13 +23,13 @@ your-project/
 
 ---
 
-## 🧠 Project Summary
+##  Project Summary
 
 > A logistic regression model that predicts 10-year coronary heart disease risk using key health and lifestyle factors, empowering early intervention through data-driven insights. It was built with clean medical data, refined features and interpreted using SHAP for transparency. 
 
 ---
 
-## 🔍 Features
+##  Features
 
 - **Data Exploration & Profiling**
   - Quick overview using `ydata-profiling`
@@ -49,7 +49,7 @@ your-project/
 
 ---
 
-## 📊 Files Description
+##  Files Description
 
 | Path | Description |
 |------|-------------|
@@ -62,7 +62,7 @@ your-project/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repository
 2. Install required packages:
@@ -76,7 +76,7 @@ your-project/
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 Key Python libraries used:
 - `pandas`, `numpy`
@@ -89,11 +89,11 @@ Key Python libraries used:
 
 ---
 
-## 📝 License
+##  License
 
 This project is open for academic, research and portfolio use. Attribution is appreciated.
 
-📬 Contact If you have any questions or suggestions, feel free to reach out:
+ If you have any questions or suggestions, feel free to reach out:
 
 Name: Ibukunoluwa Johnson
 
